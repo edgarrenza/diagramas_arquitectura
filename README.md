@@ -1,1 +1,1 @@
-# diagramas_arquitectura
+# diagramas de arquitectura
